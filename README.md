@@ -20,6 +20,8 @@ Streaming video from the Tessel 2 with a USB camera. Integrates Socket.io web ch
 * `http://192.168.0.42:3000/`, Note: the IP is unique to your device. Edit as necessary.
 * See streaming video and chat!
 
+![Demo](https://github.com/podoglyph/streaming-video-text-chat/blob/master/demo.gif)
+
 ## License
 
 This project is licensed under the MIT License.
